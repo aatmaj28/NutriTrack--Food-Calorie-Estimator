@@ -1,4 +1,0 @@
-train: D:\Projects\FoodCalorieEstimator\Fruit_Vegetable_Recognition\img\images
-val: D:\Projects\FoodCalorieEstimator\Fruit_Vegetable_Recognition\img\images
-nc: 6
-names: ["Apple", "Banana", "Orange", "Grapes", "Pineapple", "Watermelon"]
