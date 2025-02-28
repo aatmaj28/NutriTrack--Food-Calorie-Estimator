@@ -4,7 +4,13 @@
 
 NutriTrack is an intelligent food calorie estimation application that leverages **computer vision** and **deep learning** to detect fruits in images and estimate their calorie content. Using **YOLOv8** for real-time object detection and a **cell phone as a reference object**, NutriTrack achieves accurate **size and weight estimation** for precise calorie calculations.  
 
-![NutriTrack App](app_screenshot.png)  
+<p align="center">
+  <img src="Images/PH.png" alt="Hackathon Rules" width="75%" />
+</p> 
+
+<p align="center">
+  <img src="Images/PH-D.png" alt="Hackathon Rules" width="75%" />
+</p> 
 
 ## 🌟 Features  
 
